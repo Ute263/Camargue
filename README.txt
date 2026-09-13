@@ -1,6 +1,7 @@
-Camargue 2026 – korrigierte Testversion 2.
-- Ausflugsziele wieder funktionsfähig
-- Events wieder funktionsfähig
-- Plan, Rundtouren, Wandern & Gassi und Infos erhalten
-- 6 gespeicherte My-Maps-Rundtouren
+Camargue 2026 – Stand vor neuem GitHub-Upload.
+- Ausflugsziele
+- 6 verlinkte My-Maps-Rundtouren
+- Wandern & Gassi
+- Märkte & Veranstaltungen 17.–31.10.2026
+- Plan, Favoriten und Infos
 - keine integrierte OSM-Karte
